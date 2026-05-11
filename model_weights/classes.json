@@ -1,0 +1,120 @@
+{
+  "classes": [
+    "freshapple",
+    "rottenapple",
+    "freshbanana",
+    "rottenbanana",
+    "freshorange",
+    "rottenorange",
+    "freshtomato",
+    "rottentomato",
+    "freshpotato",
+    "rottenpotato",
+    "freshbittergourd",
+    "rottenbittergourd",
+    "freshcapsicum",
+    "rottencapsicum",
+    "freshcucumber",
+    "rottencucumber"
+  ],
+  "display": {
+    "freshapple": {
+      "name": "Apple",
+      "status": "Fresh",
+      "emoji": "\ud83c\udf4e",
+      "color": "#22c55e"
+    },
+    "rottenapple": {
+      "name": "Apple",
+      "status": "Rotten",
+      "emoji": "\ud83c\udf4e",
+      "color": "#ef4444"
+    },
+    "freshbanana": {
+      "name": "Banana",
+      "status": "Fresh",
+      "emoji": "\ud83c\udf4c",
+      "color": "#22c55e"
+    },
+    "rottenbanana": {
+      "name": "Banana",
+      "status": "Rotten",
+      "emoji": "\ud83c\udf4c",
+      "color": "#ef4444"
+    },
+    "freshorange": {
+      "name": "Orange",
+      "status": "Fresh",
+      "emoji": "\ud83c\udf4a",
+      "color": "#22c55e"
+    },
+    "rottenorange": {
+      "name": "Orange",
+      "status": "Rotten",
+      "emoji": "\ud83c\udf4a",
+      "color": "#ef4444"
+    },
+    "freshtomato": {
+      "name": "Tomato",
+      "status": "Fresh",
+      "emoji": "\ud83c\udf45",
+      "color": "#22c55e"
+    },
+    "rottentomato": {
+      "name": "Tomato",
+      "status": "Rotten",
+      "emoji": "\ud83c\udf45",
+      "color": "#ef4444"
+    },
+    "freshpotato": {
+      "name": "Potato",
+      "status": "Fresh",
+      "emoji": "\ud83e\udd54",
+      "color": "#22c55e"
+    },
+    "rottenpotato": {
+      "name": "Potato",
+      "status": "Rotten",
+      "emoji": "\ud83e\udd54",
+      "color": "#ef4444"
+    },
+    "freshbittergourd": {
+      "name": "Bitter Gourd",
+      "status": "Fresh",
+      "emoji": "\ud83e\udd6c",
+      "color": "#22c55e"
+    },
+    "rottenbittergourd": {
+      "name": "Bitter Gourd",
+      "status": "Rotten",
+      "emoji": "\ud83e\udd6c",
+      "color": "#ef4444"
+    },
+    "freshcapsicum": {
+      "name": "Capsicum",
+      "status": "Fresh",
+      "emoji": "\ud83e\uded1",
+      "color": "#22c55e"
+    },
+    "rottencapsicum": {
+      "name": "Capsicum",
+      "status": "Rotten",
+      "emoji": "\ud83e\uded1",
+      "color": "#ef4444"
+    },
+    "freshcucumber": {
+      "name": "Cucumber",
+      "status": "Fresh",
+      "emoji": "\ud83e\udd52",
+      "color": "#22c55e"
+    },
+    "rottencucumber": {
+      "name": "Cucumber",
+      "status": "Rotten",
+      "emoji": "\ud83e\udd52",
+      "color": "#ef4444"
+    }
+  },
+  "num_classes": 16,
+  "img_size": 224
+}
